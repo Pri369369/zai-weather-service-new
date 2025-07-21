@@ -1,0 +1,6 @@
+com\zai\client\WeatherClient.class
+com\zai\ZaiWeatherServiceApplication.class
+com\zai\controller\WeatherController.class
+com\zai\service\WeatherService.class
+com\zai\config\CacheConfig.class
+com\zai\model\WeatherResponse.class
