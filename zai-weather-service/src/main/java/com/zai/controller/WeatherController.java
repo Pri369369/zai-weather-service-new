@@ -15,7 +15,7 @@ public class WeatherController {
     }
 
     @GetMapping
-    public WeatherResponse getWeather(@RequestParam(defaultValue = "melbourne") String city) {
+    public WeatherResponse getWeather(@RequestParam(defaultValue = "aurangabad") String city) {
         return service.getWeather(city);
     }
 }
